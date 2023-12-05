@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <h1>Scanner</h1>
     <p>{{ error }}</p>
     <p>{{ decodedString }}</p>
     <button @click="torch=!torch"></button>
