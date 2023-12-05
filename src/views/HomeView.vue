@@ -3,7 +3,7 @@
     <h1>Scanner</h1>
     <p>{{ error }}</p>
     <p>{{ decodedString }}</p>
-    <button @click="torch=!torch"></button>
+    <button @click="torch=!torch">Включить фонарик</button>
     <qrcode-stream @init="onInit" @decode="onDecode" :torch="torch"></qrcode-stream>
   </div>
 </template>
