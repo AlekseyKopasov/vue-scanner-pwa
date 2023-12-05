@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkscanner_pwa"]=self["webpackChunkscanner_pwa"]||[]).push([[443],{833:function(n,a,e){e.r(a),e.d(a,{default:function(){return l}});var r=e(3396);const s={class:"about"},u=(0,r._)("h1",null,"This is an about page",-1),t=[u];function c(n,a){return(0,r.wg)(),(0,r.iD)("div",s,t)}var i=e(89);const o={},f=(0,i.Z)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.4a1e3e19.js.map
